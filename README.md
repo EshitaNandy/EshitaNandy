@@ -10,7 +10,8 @@ Here are some details to know:
 - 🔭 I’m currently working as a Summer Research Intern at INDIAN INSTITUTE OF TECHNOLOGY (BHU).
 - 🌱 I’m currently learning Keras, NLP, Tensorflow, Image Processing.
 - 🔊 I'm proficient in Languages namely English, Hindi, Assamese, Bengali.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: nandyeshita4@gmail.com
+- ✔️ Check me out at: [LinkedIn](https://www.linkedin.com/in/eshita-nandy-intern-iitbhu-contentwriter/)</br>
+                       [Medium - Blog] (medium.com/@Eshita_Nandy)
 - ⚡ Fun fact: ...
 -->
