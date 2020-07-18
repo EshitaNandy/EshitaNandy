@@ -1,6 +1,6 @@
 ### Hi Folks! 👋
 
-![](![Uploading 050318_LRR_MEN_WomenTech.jpg…]())
+![](Uploading 050318_LRR_MEN_WomenTech.jpg…]())
 
 
 # My Objective : </br>
