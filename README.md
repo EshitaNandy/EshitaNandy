@@ -11,7 +11,5 @@ Here are some details to know:
 - 🌱 I’m currently learning Keras, NLP, Tensorflow, Image Processing.
 - 🔊 I'm proficient in Languages namely English, Hindi, Assamese, Bengali.
 - 📫 How to reach me: nandyeshita4@gmail.com
-- ✔️ Check me out at: [LinkedIn](https://www.linkedin.com/in/eshita-nandy-intern-iitbhu-contentwriter/)</br>
-                       [Medium - Blog] (medium.com/@Eshita_Nandy)
-- ⚡ Fun fact: ...
--->
+- ✔️ Check me out at: 1. [LinkedIn](https://www.linkedin.com/in/eshita-nandy-intern-iitbhu-contentwriter/)    2. [MediumBlog](medium.com/@Eshita_Nandy)
+- 💻 I'm open to work: Frontend Developer · Content Writer · Data Analyst · Information Technology Specialist · Web Designer
