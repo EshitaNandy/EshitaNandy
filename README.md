@@ -1,6 +1,8 @@
 ### Hi Folks! 👋
 
-![](Uploading 050318_LRR_MEN_WomenTech.jpg…]())
+
+![050318_LRR_MEN_WomenTech](https://user-images.githubusercontent.com/40588715/87857292-36f15980-c943-11ea-8237-4291f662c66d.jpg)
+
 
 
 # My Objective : </br>
