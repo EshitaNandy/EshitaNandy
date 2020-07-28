@@ -1,8 +1,7 @@
 ### Hi Folks! 👋
 
 
-![050318_LRR_MEN_WomenTech](https://user-images.githubusercontent.com/40588715/87857292-36f15980-c943-11ea-8237-4291f662c66d.jpg)
-
+![3](https://user-images.githubusercontent.com/40588715/88620273-2ff0e680-d0bb-11ea-9695-a7037ccdc047.jpg)
 
 
 # My Objective : </br>
